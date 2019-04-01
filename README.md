@@ -4,7 +4,7 @@ Currently in beta, BranksMod is a complete rewrite of the original BakkesModInje
 
 ![](screenshot.png)
 
-# Contact
+## Contact
 
 If you notice any problems or have a suggestion feel free to message me on Discord - ItsBranK#4095
 
