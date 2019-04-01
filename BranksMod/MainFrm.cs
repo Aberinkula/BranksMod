@@ -77,7 +77,13 @@ namespace BranksMod
             else
             {
                 RLLbl.Text = "Rocket League is running.";
-                InjectionTmr.Interval = Properties.Settings.Default.Timeout;
+                try
+                {
+                    InjectionTmr.Interval = Properties.Settings.Default.Timeout;
+                } catch (System.Exception ex)
+                {
+                    InjectionTmr.Interval = 2500;
+                }
                 InjectionTmr.Start();
             }
         }
