@@ -7,6 +7,7 @@ Currently in beta, BranksMod is a complete rewrite of the original BakkesModInje
 ## Known Bugs
 
 - Troubleshooting is not yet implemented.
+- Version numbers are wrong (too lazy to fix right now but it shouldn't be a problem.).
 - Uninstall is not yet implemented.
 - Autoupdater doesn't work so you'll have to manually download the bakkesmod.dll everytime there's an update...
 
