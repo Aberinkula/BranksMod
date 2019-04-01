@@ -186,5 +186,10 @@ namespace BranksMod
             Properties.Settings.Default.RunOnStart = StartupBox.Checked;
             Properties.Settings.Default.Save();
         }
+
+        private void TimeoutBox_KeyPress(object sender, KeyPressEventArgs e)
+        {
+            e.Handled = !char.IsDigit(e.KeyChar) && !char.IsControl(e.KeyChar);
+        }
     }
 }

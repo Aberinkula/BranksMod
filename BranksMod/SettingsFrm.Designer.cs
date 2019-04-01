@@ -376,6 +376,7 @@
             this.TimeoutBox.Size = new System.Drawing.Size(139, 22);
             this.TimeoutBox.TabIndex = 17;
             this.TimeoutBox.Text = "2500";
+            this.TimeoutBox.KeyPress += new System.Windows.Forms.KeyPressEventHandler(this.TimeoutBox_KeyPress);
             // 
             // AutomaticBox
             // 
