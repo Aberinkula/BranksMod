@@ -1,0 +1,12 @@
+C:\Users\BranK\Documents\BakkesMod\BranksMod\BranksMod\bin\Release\BranksMod.exe.config
+C:\Users\BranK\Documents\BakkesMod\BranksMod\BranksMod\bin\Release\BranksMod.exe
+C:\Users\BranK\Documents\BakkesMod\BranksMod\BranksMod\bin\Release\BranksMod.pdb
+C:\Users\BranK\Documents\BakkesMod\BranksMod\BranksMod\obj\Release\BranksMod.csprojAssemblyReference.cache
+C:\Users\BranK\Documents\BakkesMod\BranksMod\BranksMod\obj\Release\BranksMod.HelpFrm.resources
+C:\Users\BranK\Documents\BakkesMod\BranksMod\BranksMod\obj\Release\BranksMod.MainFrm.resources
+C:\Users\BranK\Documents\BakkesMod\BranksMod\BranksMod\obj\Release\BranksMod.SettingsFrm.resources
+C:\Users\BranK\Documents\BakkesMod\BranksMod\BranksMod\obj\Release\BranksMod.Properties.Resources.resources
+C:\Users\BranK\Documents\BakkesMod\BranksMod\BranksMod\obj\Release\BranksMod.csproj.GenerateResource.cache
+C:\Users\BranK\Documents\BakkesMod\BranksMod\BranksMod\obj\Release\BranksMod.csproj.CoreCompileInputs.cache
+C:\Users\BranK\Documents\BakkesMod\BranksMod\BranksMod\obj\Release\BranksMod.exe
+C:\Users\BranK\Documents\BakkesMod\BranksMod\BranksMod\obj\Release\BranksMod.pdb

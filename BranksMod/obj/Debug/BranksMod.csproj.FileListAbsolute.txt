@@ -1,0 +1,22 @@
+C:\Users\BranK\Documents\Visual Studio 2017\Projects\BranksMod\BranksMod\bin\Debug\BranksMod.exe.config
+C:\Users\BranK\Documents\Visual Studio 2017\Projects\BranksMod\BranksMod\bin\Debug\BranksMod.exe
+C:\Users\BranK\Documents\Visual Studio 2017\Projects\BranksMod\BranksMod\bin\Debug\BranksMod.pdb
+C:\Users\BranK\Documents\Visual Studio 2017\Projects\BranksMod\BranksMod\obj\Debug\BranksMod.csprojAssemblyReference.cache
+C:\Users\BranK\Documents\Visual Studio 2017\Projects\BranksMod\BranksMod\obj\Debug\BranksMod.SettingsFrm.resources
+C:\Users\BranK\Documents\Visual Studio 2017\Projects\BranksMod\BranksMod\obj\Debug\BranksMod.Properties.Resources.resources
+C:\Users\BranK\Documents\Visual Studio 2017\Projects\BranksMod\BranksMod\obj\Debug\BranksMod.csproj.GenerateResource.cache
+C:\Users\BranK\Documents\Visual Studio 2017\Projects\BranksMod\BranksMod\obj\Debug\BranksMod.csproj.CoreCompileInputs.cache
+C:\Users\BranK\Documents\Visual Studio 2017\Projects\BranksMod\BranksMod\obj\Debug\BranksMod.exe
+C:\Users\BranK\Documents\Visual Studio 2017\Projects\BranksMod\BranksMod\obj\Debug\BranksMod.pdb
+C:\Users\BranK\Documents\Visual Studio 2017\Projects\BranksMod\BranksMod\obj\Debug\BranksMod.MainFrm.resources
+C:\Users\BranK\Documents\BakkesMod\BranksMod\BranksMod\bin\Debug\BranksMod.exe.config
+C:\Users\BranK\Documents\BakkesMod\BranksMod\BranksMod\bin\Debug\BranksMod.exe
+C:\Users\BranK\Documents\BakkesMod\BranksMod\BranksMod\bin\Debug\BranksMod.pdb
+C:\Users\BranK\Documents\BakkesMod\BranksMod\BranksMod\obj\Debug\BranksMod.HelpFrm.resources
+C:\Users\BranK\Documents\BakkesMod\BranksMod\BranksMod\obj\Debug\BranksMod.MainFrm.resources
+C:\Users\BranK\Documents\BakkesMod\BranksMod\BranksMod\obj\Debug\BranksMod.SettingsFrm.resources
+C:\Users\BranK\Documents\BakkesMod\BranksMod\BranksMod\obj\Debug\BranksMod.Properties.Resources.resources
+C:\Users\BranK\Documents\BakkesMod\BranksMod\BranksMod\obj\Debug\BranksMod.csproj.GenerateResource.cache
+C:\Users\BranK\Documents\BakkesMod\BranksMod\BranksMod\obj\Debug\BranksMod.csproj.CoreCompileInputs.cache
+C:\Users\BranK\Documents\BakkesMod\BranksMod\BranksMod\obj\Debug\BranksMod.exe
+C:\Users\BranK\Documents\BakkesMod\BranksMod\BranksMod\obj\Debug\BranksMod.pdb
