@@ -12,4 +12,4 @@ I also hang out in the BakkesMod Discord, so feel free to join.
 
 https://discordapp.com/invite/HsM6kAR
 
-![](invite.png)
+![](Invite.png)
