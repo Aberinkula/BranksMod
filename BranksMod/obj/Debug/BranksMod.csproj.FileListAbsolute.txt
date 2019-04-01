@@ -20,3 +20,4 @@ C:\Users\BranK\Documents\BakkesMod\BranksMod\BranksMod\obj\Debug\BranksMod.cspro
 C:\Users\BranK\Documents\BakkesMod\BranksMod\BranksMod\obj\Debug\BranksMod.csproj.CoreCompileInputs.cache
 C:\Users\BranK\Documents\BakkesMod\BranksMod\BranksMod\obj\Debug\BranksMod.exe
 C:\Users\BranK\Documents\BakkesMod\BranksMod\BranksMod\obj\Debug\BranksMod.pdb
+C:\Users\BranK\Documents\BakkesMod\BranksMod\BranksMod\obj\Debug\BranksMod.csprojAssemblyReference.cache

@@ -319,7 +319,7 @@ namespace BranksMod
 
         public void CheckD3D9()
         {
-            if (File.Exists(Properties.Settings.Default.RunOnStart + "d3d9.dll"))
+            if (File.Exists(Properties.Settings.Default.FolderPath + "d3d9.dll"))
             {
                 DialogResult DialogResult = MessageBox.Show(@"WARNING: d3d9.dll detected. This file is used by ReShade/uMod and might prevent the GUI from working. Would you like BranksMod to remove this file?", "BakkesMod", MessageBoxButtons.YesNo, MessageBoxIcon.Question);
                 if (DialogResult == DialogResult.Yes)
